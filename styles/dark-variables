@@ -1,0 +1,9 @@
+@default: #FFFFFF;
+@level4-key: #F77669;
+@level4-value: #BDF669;
+@level3-key: #89DDFF;
+@level3-value: #F77669;
+@level2-key: #FFCB6B;
+@level2-value: #89DDFF;
+@level1-key: #BDF669;
+@level1-value: #FFCB6B;

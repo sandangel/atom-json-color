@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-116117-23354-sza6b2/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-116117-23354-sza6b2/package.tgz",
+        "spec": "/tmp/d-116117-23354-sza6b2/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-116117-23354-ecg80d"
+    ]
+  ],
+  "_from": "../d-116117-23354-sza6b2/package.tgz",
+  "_id": "atom-json-color@0.4.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-json-color",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-116117-23354-sza6b2/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-116117-23354-sza6b2/package.tgz",
+    "spec": "/tmp/d-116117-23354-sza6b2/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116117-23354-sza6b2/package.tgz",
+  "_shasum": "e6bd5fc6acd6c1295139f526f0bb1f7d356e6305",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-116117-23354-sza6b2/package.tgz",
+  "_where": "/tmp/apm-install-dir-116117-23354-ecg80d",
+  "author": {
+    "name": "Stéphane BERTHO"
+  },
+  "bugs": {
+    "url": "https://github.com/th00ber/atom-json-color/issues"
+  },
+  "dependencies": {},
+  "description": "Color a JSON in Atom Editor with a color per level",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/th00ber/atom-json-color#readme",
+  "keywords": [
+    "JSON",
+    "Syntax",
+    "color"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-json-color",
+  "name": "atom-json-color",
+  "optionalDependencies": {},
+  "readme": "# atom-json-color\nColor a JSON in Atom Editor with a color per level\n(If you are using a light theme, you can go to the package setting and check \"LightTheme\" then restart Atom.)\n\nWith the plugin :)\n\n![atom-json-color-with](https://cloud.githubusercontent.com/assets/8104134/13286515/3763bc2a-db02-11e5-8f24-060648002bd6.png)\n\nWithout the plugin :(\n\n![atom-json-color-without](https://cloud.githubusercontent.com/assets/8104134/13286516/37671a78-db02-11e5-9c0a-6e0a96130d14.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th00ber/atom-json-color.git"
+  },
+  "version": "0.4.2"
+}
